@@ -1,0 +1,182 @@
+2022-05-20 14:05:817 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:663 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 14:05:745 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (595418653bd253b3e96584ebc1510548)] -> xpath: //select[@id='response']]
+2022-05-20 14:05:971 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (595418653bd253b3e96584ebc1510548)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:277 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (595418653bd253b3e96584ebc1510548)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:297 INFO  ResultPage :21 - Getting result  [[ChromeDriver: chrome on WINDOWS (595418653bd253b3e96584ebc1510548)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 14:05:735 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:510 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 14:05:575 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (918217c3c2735ab09598b0b21a6252b0)] -> xpath: //select[@id='response']]
+2022-05-20 14:05:807 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (918217c3c2735ab09598b0b21a6252b0)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:106 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (918217c3c2735ab09598b0b21a6252b0)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:124 INFO  ResultPage :21 - Getting result  [[ChromeDriver: chrome on WINDOWS (918217c3c2735ab09598b0b21a6252b0)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 14:05:837 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:592 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 14:05:652 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (cc62962a6bf7cd974b884781d8ff6fd3)] -> xpath: //select[@id='response']]
+2022-05-20 14:05:864 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (cc62962a6bf7cd974b884781d8ff6fd3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:174 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (cc62962a6bf7cd974b884781d8ff6fd3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:318 INFO  ResultPage :21 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 14:05:141 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:182 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 14:05:319 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (89fd12a3d5b69567af91fcf295f30203)] -> xpath: //select[@id='response']]
+2022-05-20 14:05:682 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (89fd12a3d5b69567af91fcf295f30203)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:276 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (89fd12a3d5b69567af91fcf295f30203)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:303 INFO  ResultPage :21 - Getting result  [[ChromeDriver: chrome on WINDOWS (89fd12a3d5b69567af91fcf295f30203)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 14:05:386 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:218 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 14:05:276 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (6bf3003530bed6752003cb8a1b70a2d6)] -> xpath: //select[@id='response']]
+2022-05-20 14:05:533 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (6bf3003530bed6752003cb8a1b70a2d6)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:902 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (6bf3003530bed6752003cb8a1b70a2d6)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:75 INFO  ResultPage :21 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 14:05:123 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:974 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 14:05:24 INFO  SelectNationalityPage :31 - Selecting day Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (063e1cace443f02ca3612b5a7593f2a5)] -> xpath: //select[@id='response']]
+2022-05-20 14:05:268 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (063e1cace443f02ca3612b5a7593f2a5)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:609 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (063e1cace443f02ca3612b5a7593f2a5)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 14:05:627 INFO  FamilyImmigrationStatusPage :27 - Clicking on Family Immigration yes[[ChromeDriver: chrome on WINDOWS (063e1cace443f02ca3612b5a7593f2a5)] -> xpath: //input[@id='response-0']]<br>
+2022-05-20 14:05:676 INFO  FamilyImmigrationStatusPage :32 - Clicking on go to continue[[ChromeDriver: chrome on WINDOWS (063e1cace443f02ca3612b5a7593f2a5)] -> xpath: //button[contains(text(),'Continue')]]<br>
+2022-05-20 14:05:942 INFO  ResultPage :21 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 15:05:412 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:161 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:229 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (da9e15be682670d669c4e6ae38a0ab78)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:514 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (da9e15be682670d669c4e6ae38a0ab78)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:908 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (da9e15be682670d669c4e6ae38a0ab78)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:935 INFO  ResultPage :21 - Getting result  [[ChromeDriver: chrome on WINDOWS (da9e15be682670d669c4e6ae38a0ab78)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:814 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:740 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:794 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (288e6fef64d02ea09402abb02a0d123a)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:97 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (288e6fef64d02ea09402abb02a0d123a)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:526 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (288e6fef64d02ea09402abb02a0d123a)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:606 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:449 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:511 INFO  SelectNationalityPage :31 - Selecting day Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (1001e3ae52e44e56ad5758533fb06285)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:783 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1001e3ae52e44e56ad5758533fb06285)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:180 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1001e3ae52e44e56ad5758533fb06285)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:204 INFO  FamilyImmigrationStatusPage :27 - Clicking on Family Immigration yes[[ChromeDriver: chrome on WINDOWS (1001e3ae52e44e56ad5758533fb06285)] -> xpath: //input[@id='response-0']]<br>
+2022-05-20 15:05:255 INFO  FamilyImmigrationStatusPage :32 - Clicking on go to continue[[ChromeDriver: chrome on WINDOWS (1001e3ae52e44e56ad5758533fb06285)] -> xpath: //button[contains(text(),'Continue')]]<br>
+2022-05-20 15:05:519 INFO  ResultPage :21 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 15:05:739 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:630 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:759 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (5904dc17af2d781b42dc5cc6c83bfc0b)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:160 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (5904dc17af2d781b42dc5cc6c83bfc0b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:796 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (5904dc17af2d781b42dc5cc6c83bfc0b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:832 INFO  ResultPage :21 - Getting result  [[ChromeDriver: chrome on WINDOWS (5904dc17af2d781b42dc5cc6c83bfc0b)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:848 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:149 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:220 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (9fc3afefe939f405d2c6df4b1815e881)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:523 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (9fc3afefe939f405d2c6df4b1815e881)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:00 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (9fc3afefe939f405d2c6df4b1815e881)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:276 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (9fc3afefe939f405d2c6df4b1815e881)] -> xpath: //input[@id='response-0']]
+2022-05-20 15:05:771 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:612 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:678 INFO  SelectNationalityPage :31 - Selecting day Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (4b999c2b8e0f9b4a4f2228096d9b1fed)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:45 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (4b999c2b8e0f9b4a4f2228096d9b1fed)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:533 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (4b999c2b8e0f9b4a4f2228096d9b1fed)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:557 INFO  FamilyImmigrationStatusPage :30 - Clicking on Family Immigration yes[[ChromeDriver: chrome on WINDOWS (4b999c2b8e0f9b4a4f2228096d9b1fed)] -> xpath: //div[@class='govuk-radios']//input[@id='response-0']]<br>
+2022-05-20 15:05:632 INFO  FamilyImmigrationStatusPage :35 - Clicking on go to continue[[ChromeDriver: chrome on WINDOWS (4b999c2b8e0f9b4a4f2228096d9b1fed)] -> xpath: //button[contains(text(),'Continue')]]<br>
+2022-05-20 15:05:987 INFO  ResultPage :21 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 15:05:394 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:23 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:98 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (59ca00ea361fb36fb9dbcb6f891d73b5)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:379 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (59ca00ea361fb36fb9dbcb6f891d73b5)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:879 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (59ca00ea361fb36fb9dbcb6f891d73b5)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:913 INFO  ResultPage :21 - Getting result  [[ChromeDriver: chrome on WINDOWS (59ca00ea361fb36fb9dbcb6f891d73b5)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:861 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:963 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:22 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (358f4836ac20c927e8318af3a979cf8b)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:257 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (358f4836ac20c927e8318af3a979cf8b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:690 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (358f4836ac20c927e8318af3a979cf8b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:998 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (358f4836ac20c927e8318af3a979cf8b)] -> xpath: //input[@id='response-0']]
+2022-05-20 15:05:415 INFO  ResultPage :21 - Getting result  [[ChromeDriver: chrome on WINDOWS (358f4836ac20c927e8318af3a979cf8b)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:530 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:663 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:724 INFO  SelectNationalityPage :31 - Selecting day Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (4fab472a8392f6802a404b0d710d25c0)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:952 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (4fab472a8392f6802a404b0d710d25c0)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:412 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (4fab472a8392f6802a404b0d710d25c0)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:442 INFO  FamilyImmigrationStatusPage :30 - Clicking on Family Immigration yes[[ChromeDriver: chrome on WINDOWS (4fab472a8392f6802a404b0d710d25c0)] -> xpath: //div[@class='govuk-radios']//input[@id='response-0']]<br>
+2022-05-20 15:05:508 INFO  FamilyImmigrationStatusPage :35 - Clicking on go to continue[[ChromeDriver: chrome on WINDOWS (4fab472a8392f6802a404b0d710d25c0)] -> xpath: //button[contains(text(),'Continue')]]<br>
+2022-05-20 15:05:824 INFO  ResultPage :21 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 15:05:603 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:613 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:693 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (74357fd8814ebb27fa6e3f7f4ab65b02)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:22 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (74357fd8814ebb27fa6e3f7f4ab65b02)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:567 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (74357fd8814ebb27fa6e3f7f4ab65b02)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:594 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (74357fd8814ebb27fa6e3f7f4ab65b02)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:604 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:692 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:754 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (5e692a037861bd9c42c58c213a57d1c0)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:69 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (5e692a037861bd9c42c58c213a57d1c0)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:436 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (5e692a037861bd9c42c58c213a57d1c0)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:730 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (5e692a037861bd9c42c58c213a57d1c0)] -> xpath: //input[@id='response-0']]
+2022-05-20 15:05:111 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (5e692a037861bd9c42c58c213a57d1c0)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:423 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:822 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:927 INFO  SelectNationalityPage :31 - Selecting day Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (d97eaa85068cc88fafe5dc28f7d0a22b)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:262 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d97eaa85068cc88fafe5dc28f7d0a22b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:801 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d97eaa85068cc88fafe5dc28f7d0a22b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:847 INFO  FamilyImmigrationStatusPage :30 - Clicking on Family Immigration yes[[ChromeDriver: chrome on WINDOWS (d97eaa85068cc88fafe5dc28f7d0a22b)] -> xpath: //div[@class='govuk-radios']//input[@id='response-0']]<br>
+2022-05-20 15:05:930 INFO  FamilyImmigrationStatusPage :35 - Clicking on go to continue[[ChromeDriver: chrome on WINDOWS (d97eaa85068cc88fafe5dc28f7d0a22b)] -> xpath: //button[contains(text(),'Continue')]]<br>
+2022-05-20 15:05:242 INFO  ResultPage :20 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 15:05:422 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:581 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:651 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (8f7aaee53e14cb96fe05d9d24c00155b)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:902 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (8f7aaee53e14cb96fe05d9d24c00155b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:268 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (8f7aaee53e14cb96fe05d9d24c00155b)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:298 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (8f7aaee53e14cb96fe05d9d24c00155b)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:181 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:261 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:318 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (bd4b23ace88e240d4253fb2b56d3582e)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:535 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (bd4b23ace88e240d4253fb2b56d3582e)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:891 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (bd4b23ace88e240d4253fb2b56d3582e)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:134 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (bd4b23ace88e240d4253fb2b56d3582e)] -> xpath: //input[@id='response-0']]
+2022-05-20 15:05:458 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (bd4b23ace88e240d4253fb2b56d3582e)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 15:05:847 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:52 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 15:05:104 INFO  SelectNationalityPage :31 - Selecting day Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (2de58bc0e29c7841997617c1e1a190c3)] -> xpath: //select[@id='response']]
+2022-05-20 15:05:319 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (2de58bc0e29c7841997617c1e1a190c3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:751 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (2de58bc0e29c7841997617c1e1a190c3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 15:05:775 INFO  FamilyImmigrationStatusPage :30 - Clicking on Family Immigration yes[[ChromeDriver: chrome on WINDOWS (2de58bc0e29c7841997617c1e1a190c3)] -> xpath: //input[@id='response-0']]<br>
+2022-05-20 15:05:849 INFO  FamilyImmigrationStatusPage :35 - Clicking on go to continue[[ChromeDriver: chrome on WINDOWS (2de58bc0e29c7841997617c1e1a190c3)] -> xpath: //button[contains(text(),'Continue')]]<br>
+2022-05-20 15:05:128 INFO  ResultPage :20 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 17:05:257 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 17:05:649 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 17:05:737 INFO  SelectNationalityPage :31 - Selecting day Australia from dropdown [[ChromeDriver: chrome on WINDOWS (f09cee43a4053dc40780d3ce0aee07b9)] -> xpath: //select[@id='response']]
+2022-05-20 17:05:19 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (f09cee43a4053dc40780d3ce0aee07b9)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:550 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (f09cee43a4053dc40780d3ce0aee07b9)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:578 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (f09cee43a4053dc40780d3ce0aee07b9)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 17:05:664 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 17:05:713 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 17:05:774 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (7274f787c44143d26bfec22e8e3751b3)] -> xpath: //select[@id='response']]
+2022-05-20 17:05:49 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (7274f787c44143d26bfec22e8e3751b3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:598 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (7274f787c44143d26bfec22e8e3751b3)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:880 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (7274f787c44143d26bfec22e8e3751b3)] -> xpath: //input[@id='response-0']]
+2022-05-20 17:05:206 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (7274f787c44143d26bfec22e8e3751b3)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 17:05:548 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 17:05:523 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 17:05:591 INFO  SelectNationalityPage :31 - Selecting day Colombia from dropdown [[ChromeDriver: chrome on WINDOWS (e8f1fa2f78a614ef3dcace07deee256a)] -> xpath: //select[@id='response']]
+2022-05-20 17:05:851 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (e8f1fa2f78a614ef3dcace07deee256a)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:516 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (e8f1fa2f78a614ef3dcace07deee256a)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:542 INFO  FamilyImmigrationStatusPage :30 - Clicking on Family Immigration yes[[ChromeDriver: chrome on WINDOWS (e8f1fa2f78a614ef3dcace07deee256a)] -> xpath: //input[@id='response-0']]<br>
+2022-05-20 17:05:623 INFO  FamilyImmigrationStatusPage :35 - Clicking on go to continue[[ChromeDriver: chrome on WINDOWS (e8f1fa2f78a614ef3dcace07deee256a)] -> xpath: //button[contains(text(),'Continue')]]<br>
+2022-05-20 17:05:994 INFO  ResultPage :20 - Getting result  Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='result-info']//div[2]/h2'
+2022-05-20 17:05:121 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 17:05:331 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 17:05:433 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (41e480c119dd5cb346b65bd72396224c)] -> xpath: //select[@id='response']]
+2022-05-20 17:05:655 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (41e480c119dd5cb346b65bd72396224c)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:220 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (41e480c119dd5cb346b65bd72396224c)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:501 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (41e480c119dd5cb346b65bd72396224c)] -> xpath: //input[@id='response-0']]
+2022-05-20 17:05:772 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (41e480c119dd5cb346b65bd72396224c)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 17:05:822 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 17:05:332 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 17:05:451 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (1fb2949e47bc05e9135f1c644dd93c78)] -> xpath: //select[@id='response']]
+2022-05-20 17:05:714 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1fb2949e47bc05e9135f1c644dd93c78)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:367 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1fb2949e47bc05e9135f1c644dd93c78)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 17:05:639 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (1fb2949e47bc05e9135f1c644dd93c78)] -> xpath: //input[@id='response-0']]
+2022-05-20 17:05:01 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (1fb2949e47bc05e9135f1c644dd93c78)] -> xpath: //div[@id='result-info']//div[2]/h2]
+2022-05-20 18:05:971 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 18:05:299 INFO  StartPage :33 - Clicking on Start NowProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='wrapper']/div[1]/main[1]/div[2]/div[1]/article[1]/section[1]/a[1]'<br>
+2022-05-20 18:05:406 INFO  SelectNationalityPage :31 - Selecting day Chile from dropdown [[ChromeDriver: chrome on WINDOWS (fc48bc89b97f513ab20c6d50289f7188)] -> xpath: //select[@id='response']]
+2022-05-20 18:05:772 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (fc48bc89b97f513ab20c6d50289f7188)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 18:05:28 INFO  SelectNationalityPage :36 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (fc48bc89b97f513ab20c6d50289f7188)] -> xpath: //button[contains(text(),'Continue')]]
+2022-05-20 18:05:363 INFO  PlanningToWork :65 - Clicking on Health and care professional[[ChromeDriver: chrome on WINDOWS (fc48bc89b97f513ab20c6d50289f7188)] -> xpath: //input[@id='response-0']]
+2022-05-20 18:05:709 INFO  ResultPage :20 - Getting result  [[ChromeDriver: chrome on WINDOWS (fc48bc89b97f513ab20c6d50289f7188)] -> xpath: //div[@id='result-info']//div[2]/h2]
